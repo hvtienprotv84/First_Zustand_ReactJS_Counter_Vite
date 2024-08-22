@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='https://i.ytimg.com/vi/dNjGADJd-Wg/sddefault.jpg' width="800"/>
+    <img src='./src/assets/zustand-react.jpg' width="800"/>
 </div>
 
 <div align="center">
