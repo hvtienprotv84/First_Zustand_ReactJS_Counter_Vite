@@ -6,7 +6,7 @@
     <h1>First Zustand - ReactJS - Counter</h1>
 </div>
 
-**Zustand** Chức Năng Dùng Để Quản Lý Trạng Thái (State Management Library) giống **Redux,** **VueX,** **Recoil** đã từng làm
+**Zustand** Dùng Để Quản Lý Trạng Thái (State Management Library) giống **Redux,** **VueX,** **Recoil** đã từng làm
 
 - ReactJS
 - Zustand
